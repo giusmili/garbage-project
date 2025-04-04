@@ -57,6 +57,9 @@ ul {
 section {
   max-width: 80rem;
   margin: 5rem auto;
+  li{
+    margin-bottom: .5rem;
+  }
 }
 
 figure {
@@ -93,6 +96,7 @@ figcaption ul {
 figcaption li {
   color: #f5f5dc;
   font-style: italic;
+  
 }
 
 footer {
