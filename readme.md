@@ -1,5 +1,5 @@
  # Garbage project 🚀
- 📁 Repertoire  
+ 📁 **Repertoire**  
  - css/
  - asset/
 - favicon/
@@ -7,11 +7,11 @@
 
 
 ---
-💻 Langages
+💻 **Langages**
 - html
 - css
 
 ---
-🛠️ Outils
+🛠️ **Outils**
 - vscode
 - mySQL
