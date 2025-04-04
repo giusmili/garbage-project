@@ -6,7 +6,7 @@
 
 /* THEME - Jurassic Park style */
 header {
-  background: linear-gradient(to right, #420000, #111);
+  background: linear-gradient(to right, #7f182b, #111);
   padding: 2rem;
   text-align: center;
 
@@ -15,24 +15,24 @@ header {
 header h1 {
   font-family: 'Orbitron', sans-serif;
   color: #ffe600;
-  font-size: 4rem;
+  font-size: 5rem;
   letter-spacing: 0.2rem;
   text-shadow:
-    2px 2px 0 #ffffff,
-    -2px -2px 0 #ffffff,
-    2px -2px 0 #ffffff,
-    -2px 2px 0 #ffffff,
-    0px 2px 0 #ffffff,
-    2px 0px 0 #ffffff,
-    0px -2px 0 #ffffff,
-    -2px 0px 0 #ffffff;
+    2px 2px 0 #f40808,
+    -2px -2px 0 #f40808,
+    2px -2px 0 #f40808,
+    -2px 2px 0 #f40808,
+    0px 2px 0 #f40808,
+    2px 0px 0 #f40808,
+    0px -2px 0 #f40808,
+    -2px 0px 0 #f40808;
   /* Contour blanc autour du texte */
 }
 
 
 main {
   padding: 2rem;
-  background: #1b2e1a;
+  background: #182f80;
 }
 
 h2 {
