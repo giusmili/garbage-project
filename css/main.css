@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Special+Elite&display=swap');
+@import url(./reset.css);
+
+/* RESET */
+
+
+/* THEME - Jurassic Park style */
+header {
+  background: linear-gradient(to right, #420000, #111);
+  padding: 2rem;
+  text-align: center;
+
+}
+
+header h1 {
+  font-family: 'Orbitron', sans-serif;
+  color: #ffe600;
+  font-size: 4rem;
+  letter-spacing: 0.2rem;
+  text-shadow:
+    2px 2px 0 #ffffff,
+    -2px -2px 0 #ffffff,
+    2px -2px 0 #ffffff,
+    -2px 2px 0 #ffffff,
+    0px 2px 0 #ffffff,
+    2px 0px 0 #ffffff,
+    0px -2px 0 #ffffff,
+    -2px 0px 0 #ffffff;
+  /* Contour blanc autour du texte */
+}
+
+
+main {
+  padding: 2rem;
+  background: #1b2e1a;
+}
+
+h2 {
+  color: #f7e700;
+  font-family: 'Orbitron', sans-serif;
+  margin-bottom: 1rem;
+  font-size: 2.4rem;
+}
+
+p {
+  margin-bottom: 2rem;
+  color: #d0d0d0;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+section {
+  max-width: 80rem;
+  margin: 5rem auto;
+}
+
+figure {
+  background-color: #263d2a;
+  border: 0.3rem solid #ffF;
+  border-radius: 1rem;
+  overflow: hidden;
+  transition: transform 0.3s;
+}
+
+figure:hover {
+  transform: scale(1.02);
+}
+
+figure img {
+  width: 100%;
+  display: block;
+}
+
+figcaption {
+  padding: 1rem 1.5rem;
+}
+
+figcaption h2 {
+  font-size: 2rem;
+  color: #ffcc00;
+  margin-bottom: 0.5rem;
+}
+
+figcaption ul {
+  padding-left: 1.5rem;
+}
+
+figcaption li {
+  color: #f5f5dc;
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  background: #111;
+  color: #aaa;
+  padding: 1.5rem;
+  font-size: 1.4rem;
+
+}
