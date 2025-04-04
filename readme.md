@@ -17,6 +17,7 @@
 - mySQL
 
 ---
+```
 /project-root/
 ├── index.php
 ├── partials/
@@ -27,3 +28,4 @@
 │   └── description-section.php
 └── css/
     └── main.css
+```
